@@ -1,0 +1,7 @@
+		---homeowkr1---
+--select count(title),rating from film
+--group by rating
+		---homeowkr2---
+--select count(title),(replacement_cost) from film	
+--group by replacement_cost
+--having count(replacement_cost) >50
